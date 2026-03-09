@@ -5,3 +5,12 @@ dist/
 build/
 .DS_Store
 *.log
+
+# Server
+server/node_modules/
+server/.env
+server/dist/
+
+# Client
+client/node_modules/
+client/.env
